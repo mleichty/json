@@ -1,0 +1,41 @@
+{
+  "header": "Awesomely odd products",
+  "sections": [
+    {
+      "name": "Animal Footprint Shoes",
+      "price": 29.99,
+      "stock": 6,
+      "image": "shoes.jpg"
+    },
+    {
+      "name": "Bacon Bandages",
+      "price": 39.99,
+      "stock": 50,
+      "image": "bandages.jpg"
+    },
+    {
+      "name": "Amazing Banana Slicer",
+      "price": 19.99,
+      "stock": 9,
+      "image": "slicer.jpg"
+    },
+    {
+      "name": "Sleep at Work Stickers",
+      "price": 9.99,
+      "stock": 46,
+      "image": "stickers.jpg"
+    },
+    {
+      "name": "Facebook Shower Curtain",
+      "price": 39.99,
+      "stock": 20,
+      "image": "curtain.jpg"
+    },
+    {
+      "name": "Flavored & Lickable Wallpaper",
+      "price": 199.99,
+      "stock": 0,
+      "image": ""
+    }
+  ]
+}
